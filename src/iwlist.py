@@ -4,10 +4,6 @@ from dataclasses import dataclass
 from typing import List, Union
 
 
-class ParseError(Exception):
-    """Raised on generic parse error"""
-
-
 @dataclass
 class Cell:
     """Cell meta"""
@@ -25,9 +21,9 @@ class Scanner:
     def call(
         self,
         use_sudo: Union[bool, str] = True,
-        sudo_cmd="sudo",
-        iwlist_cmd="iwlist",
-        scan_cmd="scan",
+        sudo_cmd: str = "sudo",
+        iwlist_cmd: str = "iwlist",
+        scan_cmd: str = "scan",
     ) -> subprocess.CompletedProcess:
         """Call `iwlist scan` on the given interface"""
 
