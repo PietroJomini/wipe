@@ -1,6 +1,6 @@
 # todos
 
 - [x] scan iwlist
-- [ ] training runtime
-  - [ ] gather positional data at certain point
+- [ ] data collection runtime
+  - [x] dumps cells at certain position
 - [ ] random forest evaluation
