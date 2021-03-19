@@ -9,7 +9,7 @@ class Cell:
     """Cell meta"""
 
     essid: str
-    signal_level: int
+    signal_level: float
 
 
 class Scanner:
