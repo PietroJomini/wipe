@@ -10,8 +10,7 @@ from src.iwlist import Cell
 class Record:
     """Record keeping track of position and iwlist result"""
 
-    x: float
-    y: float
+    label: str
     cells: List[Cell]
 
     def dump(
@@ -19,7 +18,7 @@ class Record:
     ) -> str:
         """Dumps to csv"""
 
-        row = [str(self.x), str(self.y)]
+        row = [self.label]
         for cell in self.cells:
             row += [cell.essid, str(cell.signal_level)]
 

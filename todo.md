@@ -1,6 +1,8 @@
 # todos
 
 - [x] scan iwlist
-- [ ] data collection runtime
+  - [ ] save mac insthead of essid
+- [x] data collection runtime
   - [x] dumps cells at certain position
-- [ ] random forest evaluation
+  - [ ] better data format
+- [x] random forest evaluation
