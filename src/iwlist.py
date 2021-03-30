@@ -9,6 +9,7 @@ class Cell:
     """Cell meta"""
 
     essid: str
+    mac: str
     signal_level: float
 
 
@@ -40,6 +41,7 @@ class Scanner:
         stdout: Union[str, subprocess.CompletedProcess],
         cell_pattern: str = r"Cell (\d{2}).*",
         essid_pattern: str = r'ESSID:"(.*)"',
+        mac_pattern: str = r"Cell (?:\d+) - Address: (.+)",
         signal_level_pattern: str = r"Quality=(?:\d{2}\/\d{2})  Signal level=(-?\d+).*",
     ) -> List[Cell]:
         """Parse `iwlist scan` result"""
@@ -50,29 +52,36 @@ class Scanner:
         res = []
         essid = None
         signal_level = None
+        mac = None
 
         for index, line in enumerate(stdout.splitlines()):
             line = line.strip()
 
-            if re.match(essid_pattern, line):
-                essid = re.search(essid_pattern, line).group(1)
-
-            if re.match(signal_level_pattern, line):
-                signal_level = re.search(signal_level_pattern, line).group(1)
-                signal_level = int(signal_level)
-
             if (
                 re.match(cell_pattern, line)
+                and mac is not None
                 and essid is not None
                 and signal_level is not None
             ):
-                res.append(Cell(essid, signal_level))
-                essid = None
+                res.append(Cell(essid=essid, mac=mac, signal_level=signal_level))
                 signal_level = None
+                essid = None
+                mac = None
 
-        if essid is not None and signal_level is not None:
-            res.append(Cell(essid, signal_level))
-            essid = None
+            if re.match(essid_pattern, line):
+                essid = re.search(essid_pattern, line).group(1)
+
+            if re.match(mac_pattern, line):
+                mac = re.search(mac_pattern, line).group(1)
+
+            if re.match(signal_level_pattern, line):
+                signal_level = re.search(signal_level_pattern, line).group(1)
+                signal_level = signal_level
+
+        if essid is not None and mac is not None and signal_level is not None:
+            res.append(Cell(essid=essid, mac=mac, signal_level=signal_level))
             signal_level = None
+            essid = None
+            mac = None
 
         return res

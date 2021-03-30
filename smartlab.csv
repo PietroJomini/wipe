@@ -1,60 +1,98 @@
-b,AP_SMART25,-54,Ollare the phone,-68,wifi-lab01,-78,itis-pvt,-80,itis-wifi,-80,itis-wifi2,-80,AP_ITISLI02,-78,Honor 10,-77,Bassi,-64,itis-wifi,-79,wifi-lab01,-81,itis-pvt,-81,AP_ITISLI03_5.0,-64,AP_SMART50,-62
-b,AP_SMART25,-60,Ollare the phone,-68,wifi-lab01,-73,itis-pvt,-73,itis-wifi,-73,itis-wifi2,-73,AP_ITISLI02,-78,Honor 10,-77,Bassi,-69,itis-wifi,-79,wifi-lab01,-81,itis-pvt,-81,AP_ITISLI03_5.0,-69,AP_SMART50,-58,,-72,itis-wifi,-87,AP_ITISLI03_2.5,-60,iPhone di Andrea,-84,LAN Solo,-63
-b,AP_SMART25,-60,Ollare the phone,-72,wifi-lab01,-73,itis-pvt,-73,itis-wifi,-73,itis-wifi2,-73,AP_ITISLI02,-78,Honor 10,-77,Bassi,-65,itis-wifi,-79,wifi-lab01,-81,itis-pvt,-81,AP_ITISLI03_5.0,-68,AP_SMART50,-52,,-72,itis-wifi,-87,AP_ITISLI03_2.5,-66,iPhone di Andrea,-84,LAN Solo,-63
-b,AP_SMART25,-65,Ollare the phone,-73,wifi-lab01,-73,itis-pvt,-73,itis-wifi,-73,itis-wifi2,-73,Bassi,-61,itis-pvt,-83,AP_ITISLI03_5.0,-68,AP_SMART50,-57,,-77,itis-wifi,-87,AP_ITISLI03_2.5,-66,iPhone di Andrea,-84,LAN Solo,-63
-b,AP_SMART25,-65,Ollare the phone,-71,wifi-lab01,-75,itis-pvt,-78,itis-wifi,-75,itis-wifi2,-77,Bassi,-58,itis-pvt,-83,AP_ITISLI03_5.0,-63,AP_SMART50,-47,,-77,itis-wifi,-87,AP_ITISLI03_2.5,-64,iPhone di Andrea,-84,LAN Solo,-59
-b,AP_SMART25,-57,Ollare the phone,-79,wifi-lab01,-75,itis-pvt,-87,itis-wifi,-75,itis-wifi2,-77,Bassi,-61,itis-pvt,-83,AP_ITISLI03_5.0,-71,AP_SMART50,-59,,-77,itis-wifi,-87,AP_ITISLI03_2.5,-69,iPhone di Andrea,-84,LAN Solo,-61
-b,AP_SMART25,-62,Ollare the phone,-68,wifi-lab01,-75,itis-pvt,-87,itis-wifi,-81,itis-wifi2,-77,Bassi,-68,itis-pvt,-83,AP_ITISLI03_5.0,-71,AP_SMART50,-49,,-77,AP_ITISLI03_2.5,-72,LAN Solo,-59
-b,AP_SMART25,-60,Ollare the phone,-68,wifi-lab01,-82,itis-pvt,-84,itis-wifi,-83,itis-wifi2,-83,Bassi,-64,itis-pvt,-83,AP_ITISLI03_5.0,-69,AP_SMART50,-54,,-83,AP_ITISLI03_2.5,-72,LAN Solo,-59,wifi-lab01,-84
-b,AP_SMART25,-55,Ollare the phone,-67,wifi-lab01,-82,itis-pvt,-84,itis-wifi,-83,itis-wifi2,-83,Bassi,-59,AP_ITISLI03_5.0,-68,AP_SMART50,-56,,-78,AP_ITISLI03_2.5,-72,LAN Solo,-65,wifi-lab01,-84
-b,AP_SMART25,-63,Ollare the phone,-69,wifi-lab01,-82,itis-pvt,-84,itis-wifi,-80,itis-wifi2,-83,Bassi,-57,AP_ITISLI03_5.0,-68,AP_SMART50,-50,,-78,AP_ITISLI03_2.5,-72,LAN Solo,-59,wifi-lab01,-84
-b,AP_SMART25,-58,Ollare the phone,-67,wifi-lab01,-82,itis-pvt,-84,itis-wifi,-80,itis-wifi2,-83,Bassi,-57,AP_ITISLI03_5.0,-69,AP_SMART50,-54,,-78,AP_ITISLI03_2.5,-72,LAN Solo,-69,wifi-lab01,-84,itis-wifi2,-84
-c,AP_SMART25,-53,Ollare the phone,-60,wifi-lab01,-78,itis-wifi,-80,itis-wifi2,-83,Bassi,-59,AP_ITISLI03_5.0,-70,AP_SMART50,-52,LAN Solo,-63,itis-wifi2,-84,itis-pvt,-79
-c,AP_SMART25,-53,Ollare the phone,-70,wifi-lab01,-78,itis-wifi2,-83,Bassi,-65,AP_ITISLI03_5.0,-70,AP_SMART50,-52,LAN Solo,-67,itis-wifi2,-83,itis-pvt,-79,AP_ITISLI03_2.5,-73,Honor 10,-84,AP_ITISLI02,-86,wifi-lab01,-84,itis-pvt,-87,itis-wifi,-83,itis-pvt,-89
-c,AP_SMART25,-46,Ollare the phone,-62,wifi-lab01,-75,itis-wifi2,-76,Bassi,-60,AP_ITISLI03_5.0,-64,AP_SMART50,-52,LAN Solo,-52,itis-wifi2,-83,itis-pvt,-75,AP_ITISLI03_2.5,-66,Honor 10,-84,AP_ITISLI02,-86,wifi-lab01,-84,itis-pvt,-87,itis-wifi,-83,itis-pvt,-89,itis-wifi,-77
-c,AP_SMART25,-51,Ollare the phone,-60,wifi-lab01,-75,itis-wifi2,-69,Bassi,-63,AP_ITISLI03_5.0,-69,AP_SMART50,-51,LAN Solo,-52,itis-wifi2,-89,itis-pvt,-75,AP_ITISLI03_2.5,-73,Honor 10,-84,AP_ITISLI02,-86,wifi-lab01,-84,itis-pvt,-87,itis-wifi,-83,itis-pvt,-89,itis-wifi,-77,iPhone di Andrea,-83
-c,AP_SMART25,-47,Ollare the phone,-60,wifi-lab01,-77,itis-wifi2,-76,Bassi,-49,AP_ITISLI03_5.0,-69,AP_SMART50,-50,LAN Solo,-53,itis-wifi2,-89,itis-pvt,-76,AP_ITISLI03_2.5,-73,Honor 10,-78,AP_ITISLI02,-86,wifi-lab01,-84,itis-pvt,-87,itis-wifi,-83,itis-pvt,-89,itis-wifi,-72,iPhone di Andrea,-81,,-76
-c,AP_SMART25,-52,Ollare the phone,-63,wifi-lab01,-77,itis-wifi2,-76,Bassi,-65,AP_ITISLI03_5.0,-67,AP_SMART50,-55,LAN Solo,-58,itis-wifi2,-89,itis-pvt,-76,AP_ITISLI03_2.5,-72,Honor 10,-78,AP_ITISLI02,-85,wifi-lab01,-84,itis-pvt,-87,itis-wifi,-83,itis-pvt,-89,itis-wifi,-78,iPhone di Andrea,-84,,-76
-c,AP_SMART25,-50,Ollare the phone,-57,wifi-lab01,-80,itis-wifi2,-76,Bassi,-70,AP_ITISLI03_5.0,-74,AP_SMART50,-60,LAN Solo,-58,itis-wifi2,-89,itis-pvt,-79,AP_ITISLI03_2.5,-66,Honor 10,-78,AP_ITISLI02,-85,wifi-lab01,-84,itis-pvt,-87,itis-wifi,-83,itis-pvt,-89,itis-wifi,-80,iPhone di Andrea,-84,,-76
-c,AP_SMART25,-65,Ollare the phone,-59,wifi-lab01,-75,itis-wifi2,-75,Bassi,-65,AP_ITISLI03_5.0,-67,AP_SMART50,-57,LAN Solo,-58,itis-wifi2,-82,itis-pvt,-76,AP_ITISLI03_2.5,-70,Honor 10,-78,AP_ITISLI02,-85,itis-wifi,-76,iPhone di Andrea,-84,,-76
-c,AP_SMART25,-50,Ollare the phone,-63,wifi-lab01,-75,itis-wifi2,-75,Bassi,-61,AP_ITISLI03_5.0,-74,AP_SMART50,-57,LAN Solo,-58,itis-wifi2,-82,itis-pvt,-76,AP_ITISLI03_2.5,-62,Honor 10,-78,AP_ITISLI02,-78,itis-wifi,-76,iPhone di Andrea,-84,,-76,itis-pvt,-76,wifi-lab01,-80
-c,AP_SMART25,-59,Ollare the phone,-69,wifi-lab01,-75,itis-wifi2,-75,Bassi,-63,AP_ITISLI03_5.0,-64,AP_SMART50,-57,LAN Solo,-54,itis-wifi2,-82,itis-pvt,-76,AP_ITISLI03_2.5,-60,Honor 10,-69,AP_ITISLI02,-78,itis-wifi,-76,iPhone di Andrea,-84,itis-pvt,-86,wifi-lab01,-87,itis-wifi,-87
-c,AP_SMART25,-59,Ollare the phone,-63,wifi-lab01,-79,itis-wifi2,-75,Bassi,-60,AP_ITISLI03_5.0,-67,AP_SMART50,-57,LAN Solo,-63,itis-wifi2,-82,itis-pvt,-76,AP_ITISLI03_2.5,-70,Honor 10,-69,AP_ITISLI02,-78,itis-wifi,-76,iPhone di Andrea,-84,itis-pvt,-86,wifi-lab01,-87,itis-wifi,-87
-c,AP_SMART25,-59,Ollare the phone,-61,wifi-lab01,-79,itis-wifi2,-88,Bassi,-58,AP_ITISLI03_5.0,-67,AP_SMART50,-53,LAN Solo,-60,itis-wifi2,-78,itis-pvt,-76,AP_ITISLI03_2.5,-70,Honor 10,-69,AP_ITISLI02,-83,itis-wifi,-76,iPhone di Andrea,-84,itis-pvt,-86,wifi-lab01,-87,itis-wifi,-87
-c,AP_SMART25,-53,Ollare the phone,-62,wifi-lab01,-79,itis-wifi2,-88,Bassi,-64,AP_ITISLI03_5.0,-71,AP_SMART50,-52,LAN Solo,-60,itis-wifi2,-78,AP_ITISLI03_2.5,-74,Honor 10,-69,AP_ITISLI02,-83,itis-pvt,-86,wifi-lab01,-87,itis-wifi,-87,wifi-lab01,-81
-c,AP_SMART25,-59,Ollare the phone,-60,wifi-lab01,-79,itis-wifi2,-88,Bassi,-62,AP_ITISLI03_5.0,-64,AP_SMART50,-52,LAN Solo,-60,itis-wifi2,-78,AP_ITISLI03_2.5,-61,Honor 10,-78,AP_ITISLI02,-78,itis-pvt,-86,wifi-lab01,-87,itis-wifi,-87,wifi-lab01,-81,iPhone di Andrea,-83
-c,AP_SMART25,-62,Ollare the phone,-62,wifi-lab01,-79,itis-wifi2,-75,Bassi,-62,AP_ITISLI03_5.0,-63,AP_SMART50,-52,LAN Solo,-60,itis-wifi2,-78,AP_ITISLI03_2.5,-63,Honor 10,-78,AP_ITISLI02,-78,wifi-lab01,-81,iPhone di Andrea,-83,itis-wifi,-73
-d,AP_SMART25,-47,Ollare the phone,-59,itis-wifi2,-76,Bassi,-72,AP_ITISLI03_5.0,-63,AP_SMART50,-48,AP_ITISLI03_2.5,-63,Honor 10,-78,AP_ITISLI02,-78,iPhone di Andrea,-80,itis-wifi,-77,wifi-lab01,-76,itis-pvt,-76,LAN Solo,-50
-d,AP_SMART25,-43,Ollare the phone,-58,itis-wifi2,-75,Bassi,-67,AP_ITISLI03_5.0,-65,AP_SMART50,-44,AP_ITISLI03_2.5,-60,iPhone di Andrea,-80,itis-wifi,-74,wifi-lab01,-79,itis-pvt,-76,LAN Solo,-55,Honor 10,-77
-d,AP_SMART25,-50,Ollare the phone,-65,itis-wifi2,-82,Bassi,-67,AP_ITISLI03_5.0,-61,AP_SMART50,-47,AP_ITISLI03_2.5,-60,iPhone di Andrea,-80,itis-wifi,-81,wifi-lab01,-75,itis-pvt,-82,LAN Solo,-52,Honor 10,-77
-d,AP_SMART25,-45,Ollare the phone,-53,itis-wifi2,-79,Bassi,-65,AP_ITISLI03_5.0,-57,AP_SMART50,-39,AP_ITISLI03_2.5,-61,iPhone di Andrea,-80,itis-wifi,-81,wifi-lab01,-81,itis-pvt,-79,LAN Solo,-57,Honor 10,-77,wifi-lab01,-81,itis-pvt,-81
-d,AP_SMART25,-47,Ollare the phone,-61,itis-wifi2,-77,Bassi,-61,AP_ITISLI03_5.0,-67,AP_SMART50,-39,AP_ITISLI03_2.5,-61,iPhone di Andrea,-77,itis-wifi,-77,wifi-lab01,-77,itis-pvt,-76,LAN Solo,-58,Honor 10,-82,wifi-lab01,-81,itis-pvt,-81
-d,AP_SMART25,-45,Ollare the phone,-64,itis-wifi2,-70,Bassi,-56,AP_ITISLI03_5.0,-68,AP_SMART50,-42,AP_ITISLI03_2.5,-67,iPhone di Andrea,-77,itis-wifi,-76,wifi-lab01,-75,itis-pvt,-70,LAN Solo,-57,Honor 10,-80,wifi-lab01,-81,itis-pvt,-81
-d,AP_SMART25,-47,Ollare the phone,-63,itis-wifi2,-75,Bassi,-61,AP_ITISLI03_5.0,-60,AP_SMART50,-49,AP_ITISLI03_2.5,-59,iPhone di Andrea,-77,itis-wifi,-71,wifi-lab01,-74,itis-pvt,-75,LAN Solo,-52,Honor 10,-80,wifi-lab01,-83,itis-pvt,-81,,-87
-d,AP_SMART25,-47,Ollare the phone,-64,itis-wifi2,-74,Bassi,-57,AP_ITISLI03_5.0,-55,AP_SMART50,-45,AP_ITISLI03_2.5,-56,iPhone di Andrea,-77,itis-wifi,-74,wifi-lab01,-75,itis-pvt,-74,LAN Solo,-54,Honor 10,-76,wifi-lab01,-83,,-87,,-73,wifi-lab01,-79
-d,AP_SMART25,-47,Ollare the phone,-65,itis-wifi2,-74,Bassi,-65,AP_ITISLI03_5.0,-62,AP_SMART50,-32,AP_ITISLI03_2.5,-56,iPhone di Andrea,-84,itis-wifi,-74,wifi-lab01,-75,itis-pvt,-61,LAN Solo,-53,Honor 10,-76,wifi-lab01,-83,,-87,,-73,wifi-lab01,-79,itis-wifi2,-84
-d,AP_SMART25,-49,Ollare the phone,-62,itis-wifi2,-75,Bassi,-62,AP_ITISLI03_5.0,-62,AP_SMART50,-38,AP_ITISLI03_2.5,-51,iPhone di Andrea,-84,itis-wifi,-76,wifi-lab01,-76,itis-pvt,-77,LAN Solo,-52,Honor 10,-76,wifi-lab01,-83,,-87,,-73,wifi-lab01,-79,itis-wifi2,-84
-d,AP_SMART25,-34,Ollare the phone,-64,itis-wifi2,-77,Bassi,-58,AP_ITISLI03_5.0,-58,AP_SMART50,-38,AP_ITISLI03_2.5,-51,iPhone di Andrea,-84,itis-wifi,-77,wifi-lab01,-75,itis-pvt,-78,LAN Solo,-52,Honor 10,-82,,-84,,-73,wifi-lab01,-79,itis-wifi2,-84
-d,AP_SMART25,-53,Ollare the phone,-57,itis-wifi2,-69,Bassi,-58,AP_ITISLI03_5.0,-50,AP_SMART50,-43,AP_ITISLI03_2.5,-53,iPhone di Andrea,-84,itis-wifi,-69,wifi-lab01,-69,itis-pvt,-71,LAN Solo,-52,Honor 10,-82,,-84,,-73,wifi-lab01,-79,itis-wifi2,-84,AP_ITISLI02,-80,wifi-lab01,-79
-d,AP_SMART25,-46,Ollare the phone,-55,itis-wifi2,-69,Bassi,-63,AP_ITISLI03_5.0,-56,AP_SMART50,-41,AP_ITISLI03_2.5,-54,iPhone di Andrea,-84,itis-wifi,-69,wifi-lab01,-69,itis-pvt,-71,LAN Solo,-51,Honor 10,-82,,-84,,-73,wifi-lab01,-79,itis-wifi2,-84,AP_ITISLI02,-80,wifi-lab01,-79,itis-pvt,-85
-d,AP_SMART25,-40,Ollare the phone,-66,itis-wifi2,-72,Bassi,-69,AP_ITISLI03_5.0,-60,AP_SMART50,-37,AP_ITISLI03_2.5,-52,iPhone di Andrea,-80,itis-wifi,-74,wifi-lab01,-69,itis-pvt,-74,LAN Solo,-53,Honor 10,-82,,-84,,-73,AP_ITISLI02,-80,wifi-lab01,-79,itis-pvt,-85
-d,AP_SMART25,-42,Ollare the phone,-60,itis-wifi2,-72,Bassi,-64,AP_ITISLI03_5.0,-63,AP_SMART50,-46,AP_ITISLI03_2.5,-54,iPhone di Andrea,-80,itis-wifi,-74,wifi-lab01,-69,itis-pvt,-74,LAN Solo,-50,Honor 10,-82,,-84,,-73,AP_ITISLI02,-80,wifi-lab01,-79,itis-pvt,-85
-d,AP_SMART25,-51,Ollare the phone,-51,itis-wifi2,-72,Bassi,-51,AP_ITISLI03_5.0,-57,AP_SMART50,-46,AP_ITISLI03_2.5,-55,iPhone di Andrea,-80,itis-wifi,-81,wifi-lab01,-82,itis-pvt,-74,LAN Solo,-50,Honor 10,-82,,-84,,-73,AP_ITISLI02,-80,wifi-lab01,-79,itis-pvt,-85
-a,AP_SMART25,-47,Ollare the phone,-56,Bassi,-53,AP_ITISLI03_5.0,-65,AP_SMART50,-44,AP_ITISLI03_2.5,-69,itis-wifi,-81,wifi-lab01,-82,LAN Solo,-42,AP_ITISLI02,-82
-a,AP_SMART25,-53,Ollare the phone,-52,Bassi,-51,AP_ITISLI03_5.0,-53,AP_SMART50,-44,AP_ITISLI03_2.5,-60,itis-wifi,-82,wifi-lab01,-81,LAN Solo,-49,AP_ITISLI02,-82,itis-pvt,-72,itis-wifi2,-74
-a,AP_SMART25,-57,Ollare the phone,-49,Bassi,-53,AP_ITISLI03_5.0,-59,AP_SMART50,-52,AP_ITISLI03_2.5,-59,itis-wifi,-82,wifi-lab01,-81,LAN Solo,-46,AP_ITISLI02,-75,itis-pvt,-72,itis-wifi2,-86,itis-pvt,-86
-a,AP_SMART25,-46,Ollare the phone,-50,Bassi,-46,AP_ITISLI03_5.0,-59,AP_SMART50,-52,AP_ITISLI03_2.5,-64,itis-wifi,-79,wifi-lab01,-80,LAN Solo,-46,AP_ITISLI02,-75,itis-pvt,-72,itis-wifi2,-77,itis-pvt,-86
-a,AP_SMART25,-54,Ollare the phone,-54,Bassi,-39,AP_ITISLI03_5.0,-62,AP_SMART50,-53,AP_ITISLI03_2.5,-74,itis-wifi,-78,wifi-lab01,-78,LAN Solo,-52,AP_ITISLI02,-75,itis-pvt,-78,itis-wifi2,-79,itis-pvt,-86,,-78
-a,AP_SMART25,-54,Ollare the phone,-50,Bassi,-44,AP_ITISLI03_5.0,-64,AP_SMART50,-51,AP_ITISLI03_2.5,-72,itis-wifi,-81,wifi-lab01,-78,LAN Solo,-49,AP_ITISLI02,-75,itis-pvt,-78,itis-wifi2,-79,itis-pvt,-84,,-78
-a,AP_SMART25,-56,Ollare the phone,-51,Bassi,-53,AP_ITISLI03_5.0,-59,AP_SMART50,-49,AP_ITISLI03_2.5,-66,itis-wifi,-81,wifi-lab01,-78,LAN Solo,-49,AP_ITISLI02,-75,itis-pvt,-78,itis-wifi2,-79,itis-pvt,-84,,-78,Honor 10,-85,iPhone di Andrea,-83,Vodafone-33483668,-86
-a,AP_SMART25,-51,Ollare the phone,-56,Bassi,-45,AP_ITISLI03_5.0,-61,AP_SMART50,-53,AP_ITISLI03_2.5,-72,itis-wifi,-78,wifi-lab01,-78,LAN Solo,-62,itis-pvt,-78,itis-wifi2,-79,itis-pvt,-84,,-78,Honor 10,-85,iPhone di Andrea,-83,Vodafone-33483668,-86
-a,AP_SMART25,-51,Ollare the phone,-51,Bassi,-60,AP_ITISLI03_5.0,-57,AP_SMART50,-54,AP_ITISLI03_2.5,-71,itis-wifi,-78,wifi-lab01,-78,LAN Solo,-62,itis-pvt,-78,itis-wifi2,-79,itis-pvt,-84,,-78,Honor 10,-85,iPhone di Andrea,-83,Vodafone-33483668,-86
-a,AP_SMART25,-60,Ollare the phone,-55,Bassi,-48,AP_ITISLI03_5.0,-61,AP_SMART50,-47,AP_ITISLI03_2.5,-71,itis-wifi,-79,wifi-lab01,-80,LAN Solo,-62,itis-pvt,-81,itis-pvt,-84,Honor 10,-85,iPhone di Andrea,-83,Vodafone-33483668,-86
-a,AP_SMART25,-48,Ollare the phone,-55,Bassi,-57,AP_ITISLI03_5.0,-65,AP_SMART50,-51,AP_ITISLI03_2.5,-62,itis-wifi,-79,wifi-lab01,-78,LAN Solo,-48,itis-pvt,-80,Honor 10,-85,iPhone di Andrea,-83,Vodafone-33483668,-86,AP_ITISLI02,-87
-a,AP_SMART25,-48,Ollare the phone,-41,Bassi,-43,AP_ITISLI03_5.0,-60,AP_SMART50,-56,AP_ITISLI03_2.5,-68,itis-wifi,-79,wifi-lab01,-81,LAN Solo,-49,itis-pvt,-80,AP_ITISLI02,-87
-a,AP_SMART25,-45,Ollare the phone,-58,Bassi,-53,AP_ITISLI03_5.0,-64,AP_SMART50,-49,AP_ITISLI03_2.5,-67,itis-wifi,-74,wifi-lab01,-75,LAN Solo,-48,itis-pvt,-74,AP_ITISLI02,-87,,-75,itis-wifi2,-76
-a,AP_SMART25,-49,Ollare the phone,-56,Bassi,-50,AP_ITISLI03_5.0,-66,AP_SMART50,-49,AP_ITISLI03_2.5,-67,itis-wifi,-74,wifi-lab01,-79,LAN Solo,-49,itis-pvt,-74,AP_ITISLI02,-87,,-75,itis-wifi2,-76
-a,AP_SMART25,-50,Ollare the phone,-58,Bassi,-49,AP_ITISLI03_5.0,-62,AP_SMART50,-48,AP_ITISLI03_2.5,-58,itis-wifi,-75,wifi-lab01,-75,LAN Solo,-49,itis-pvt,-74,AP_ITISLI02,-87,,-75,itis-wifi2,-73
-a,AP_SMART25,-57,Ollare the phone,-49,Bassi,-57,AP_ITISLI03_5.0,-62,AP_SMART50,-48,AP_ITISLI03_2.5,-59,itis-wifi,-84,wifi-lab01,-80,LAN Solo,-53,itis-pvt,-85,,-85,itis-wifi2,-80,itis-wifi2,-85
-a,AP_SMART25,-52,Ollare the phone,-58,Bassi,-58,AP_ITISLI03_5.0,-63,AP_SMART50,-54,AP_ITISLI03_2.5,-69,itis-wifi,-79,wifi-lab01,-79,LAN Solo,-39,itis-pvt,-80,,-85,itis-wifi2,-79,itis-wifi2,-85,AP_ITISLI02,-83
-a,AP_SMART25,-52,Ollare the phone,-56,Bassi,-50,AP_ITISLI03_5.0,-70,AP_SMART50,-49,AP_ITISLI03_2.5,-62,itis-wifi,-80,wifi-lab01,-76,LAN Solo,-48,itis-pvt,-78,,-85,itis-wifi2,-78,itis-wifi2,-85,AP_ITISLI02,-83
+label,0C:80:63:2F:3F:42,0C:80:63:2F:3C:15,EC:3C:BB:87:4A:12,D2:32:4B:6B:49:E3,24:A4:3C:95:88:6A,36:A4:3C:95:88:6A,26:A4:3C:95:88:6A,0C:80:63:2F:3C:14,0C:80:63:2F:3C:38,0C:80:63:2F:3F:41,44:D9:E7:C7:70:70,24:A4:3C:A3:15:13,36:A4:3C:A3:15:13,0C:80:63:2F:3C:39,44:D9:E7:C7:0C:85,66:D9:E7:C7:0C:85,46:A4:3C:A3:15:13,82:C9:4E:7F:14:3B,66:D9:E7:C7:70:70,56:D9:E7:C7:70:70,7E:89:56:FE:B2:D8,36:A4:3C:7D:79:8D,56:D9:E7:C7:0C:85,56:A4:3C:95:88:6A,64:59:F8:06:5B:F8,76:D9:E7:C7:70:70,46:A4:3C:95:88:6A,66:D9:E7:C7:6F:84,56:D9:E7:C7:6F:84,76:D9:E7:C7:6F:84,46:D9:E7:C7:70:70,C4:6E:1F:0D:2A:46,66:D6:E6:E7:97:64
+a,-54,-45,-61,-53,-78,-78,-78,-39,-78,-59,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+a,-57,-45,-51,-46,-78,-78,-78,-39,-72,-51,-81,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+a,-58,-45,-62,-47,-83,-82,-78,-46,-66,-54,-81,-88,-89,-71,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+a,-51,-41,-57,-59,-83,-82,-78,-46,-66,-54,-81,-88,-89,-71,-89,-87,-89,-50,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+a,-57,-43,-61,-59,-83,-82,-78,-42,-60,-52,-81,-88,-89,-71,-89,-87,-89,-58,-86,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+a,-65,-53,-61,-53,-83,-82,-,-45,-74,-44,-75,-88,-89,-71,-89,-87,-89,-55,-86,-77,-68,-,-,-,-,-,-,-,-,-,-,-,-
+a,-56,-56,-57,-46,-83,-82,-,-42,-68,-48,-75,-88,-89,-69,-89,-87,-89,-55,-86,-77,-68,-87,-,-,-,-,-,-,-,-,-,-,-
+a,-60,-54,-59,-59,-83,-82,-,-47,-70,-59,-75,-88,-89,-69,-83,-87,-89,-55,-86,-77,-68,-87,-81,-,-,-,-,-,-,-,-,-,-
+a,-59,-54,-49,-59,-83,-82,-,-37,-70,-45,-76,-88,-89,-71,-78,-87,-89,-55,-86,-78,-68,-87,-81,-,-,-,-,-,-,-,-,-,-
+a,-62,-49,-55,-55,-,-,-,-37,-71,-54,-76,-,-,-71,-78,-,-,-55,-83,-82,-68,-87,-81,-,-,-,-,-,-,-,-,-,-
+a,-53,-49,-56,-46,-,-84,-,-48,-71,-55,-76,-,-,-71,-78,-,-,-60,-80,-81,-,-87,-81,-,-,-,-,-,-,-,-,-,-
+a,-59,-53,-58,-55,-,-84,-,-43,-73,-53,-76,-,-,-68,-78,-,-,-60,-80,-81,-,-,-81,-,-,-,-,-,-,-,-,-,-
+a,-58,-53,-62,-48,-,-84,-,-53,-70,-58,-76,-,-,-68,-78,-,-,-60,-80,-81,-,-85,-,-,-,-,-,-,-,-,-,-,-
+a,-69,-49,-62,-58,-,-84,-,-47,-71,-54,-,-,-,-76,-,-,-,-60,-80,-81,-,-85,-,-,-,-,-,-,-,-,-,-,-
+a,-60,-54,-61,-58,-,-84,-,-45,-72,-52,-81,-,-,-74,-,-,-,-60,-80,-81,-,-85,-,-,-,-,-,-,-,-,-,-,-
+a,-57,-59,-53,-42,-,-,-,-43,-72,-57,-81,-,-,-72,-,-,-,-,-,-,-,-85,-,-,-,-,-,-,-,-,-,-,-
+a,-56,-41,-53,-55,-79,-,-,-48,-72,-57,-81,-,-,-72,-,-,-,-42,-,-,-,-85,-,-,-,-,-,-,-,-,-,-,-
+a,-60,-44,-47,-41,-79,-,-,-41,-68,-47,-81,-,-,-72,-,-,-,-50,-,-,-,-,-,-80,-,-,-,-,-,-,-,-,-
+a,-58,-48,-45,-51,-79,-,-,-46,-70,-47,-78,-,-,-72,-,-,-,-50,-,-,-,-,-,-80,-,-,-,-,-,-,-,-,-
+a,-65,-45,-54,-49,-79,-,-,-45,-66,-46,-78,-,-,-73,-,-,-,-44,-,-,-,-,-,-80,-,-,-,-,-,-,-,-,-
+a,-55,-46,-54,-43,-79,-,-,-41,-71,-52,-78,-,-,-65,-,-,-,-42,-,-,-,-,-,-80,-,-,-,-,-,-,-,-,-
+a,-61,-51,-47,-43,-,-,-,-48,-68,-52,-78,-,-,-65,-,-,-,-42,-81,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+b,-58,-44,-50,-64,-,-,-,-41,-70,-60,-,-,-,-63,-,-,-,-60,-81,-,-78,-,-,-,-,-,-,-,-,-,-,-,-
+b,-66,-44,-54,-46,-,-,-,-33,-64,-59,-,-,-,-63,-,-,-,-58,-81,-,-78,-,-,-,-,-,-,-,-,-,-,-,-
+b,-61,-41,-54,-58,-,-,-,-35,-75,-55,-,-,-,-70,-,-,-,-53,-81,-,-78,-,-,-,-,-,-,-,-,-,-,-,-
+b,-59,-47,-62,-55,-,-,-,-42,-66,-57,-79,-,-,-66,-,-,-,-53,-,-,-77,-,-,-,-,-,-,-,-,-,-,-,-
+b,-54,-42,-47,-48,-,-,-,-37,-61,-59,-79,-,-,-64,-,-,-,-53,-,-77,-77,-,-,-,-,-,-,-,-,-,-,-,-
+b,-56,-42,-53,-62,-,-,-,-37,-66,-55,-79,-,-,-64,-,-,-,-53,-,-77,-77,-,-,-,-,-,-,-,-,-,-,-,-
+b,-55,-40,-63,-62,-,-,-,-37,-69,-66,-79,-,-,-70,-,-,-,-53,-,-77,-77,-,-,-,-,-,-,-,-,-,-,-,-
+b,-60,-49,-56,-54,-,-,-,-36,-65,-56,-76,-,-,-63,-,-,-,-53,-77,-77,-77,-,-,-86,-,-,-,-,-,-,-,-,-
+b,-56,-47,-56,-54,-83,-,-,-38,-73,-63,-76,-,-,-63,-,-,-,-58,-77,-79,-77,-,-,-86,-91,-,-,-,-,-,-,-,-
+b,-54,-44,-51,-49,-83,-,-,-30,-68,-50,-76,-,-,-63,-,-,-,-58,-77,-79,-,-,-,-86,-91,-,-,-,-,-,-,-,-
+b,-48,-51,-66,-43,-83,-,-77,-44,-69,-50,-76,-,-,-63,-,-,-,-48,-77,-79,-84,-,-,-86,-91,-,-,-,-,-,-,-,-
+b,-58,-38,-56,-54,-83,-,-77,-33,-73,-50,-76,-,-,-73,-,-,-,-56,-77,-79,-84,-,-,-86,-91,-,-,-,-,-,-,-,-
+b,-46,-44,-54,-54,-83,-,-77,-42,-75,-57,-76,-,-,-73,-,-,-,-46,-77,-79,-84,-,-,-86,-91,-,-,-,-,-,-,-,-
+b,-65,-46,-45,-59,-83,-,-77,-39,-75,-45,-76,-,-,-73,-,-,-,-46,-,-79,-84,-,-,-,-91,-76,-,-,-,-,-,-,-
+b,-47,-55,-46,-51,-,-,-77,-38,-69,-49,-77,-,-,-73,-,-,-,-49,-75,-,-84,-,-,-,-,-76,-84,-,-,-,-,-,-
+b,-51,-51,-49,-54,-,-,-,-33,-65,-53,-77,-,-,-69,-,-,-,-49,-75,-,-,-,-86,-,-,-76,-84,-,-,-,-,-,-
+b,-53,-37,-51,-53,-,-,-,-39,-69,-47,-75,-,-,-69,-,-,-,-49,-75,-,-,-,-86,-,-86,-76,-84,-,-,-,-,-,-
+b,-55,-43,-47,-54,-,-,-82,-39,-69,-51,-77,-,-,-72,-,-,-,-49,-75,-77,-,-,-86,-,-86,-76,-84,-,-,-,-,-,-
+b,-63,-35,-47,-57,-,-,-82,-37,-62,-50,-77,-,-,-72,-,-,-,-60,-75,-77,-,-,-86,-,-86,-,-84,-,-,-,-,-,-
+b,-60,-45,-69,-57,-81,-84,-82,-36,-61,-57,-77,-,-,-72,-,-,-,-56,-77,-77,-,-,-86,-85,-86,-,-84,-,-,-,-,-,-
+b,-60,-56,-45,-57,-81,-84,-82,-38,-65,-59,-77,-,-,-65,-,-,-,-57,-77,-77,-,-,-86,-85,-86,-,-,-,-,-,-,-,-
+b,-60,-43,-50,-56,-81,-84,-82,-38,-70,-52,-77,-,-,-65,-,-,-,-51,-77,-77,-75,-,-86,-85,-86,-,-,-,-,-,-,-,-
+b,-67,-47,-48,-44,-81,-84,-82,-48,-68,-58,-77,-,-,-65,-,-,-,-50,-77,-77,-75,-,-,-85,-86,-,-,-,-,-,-,-,-
+c,-47,-50,-47,-59,-,-,-,-41,-63,-47,-,-,-,-65,-,-,-,-49,-81,-,-75,-,-,-,-,-,-,-,-,-,-,-,-
+c,-53,-42,-57,-59,-,-,-,-49,-63,-47,-,-,-,-65,-,-,-,-49,-81,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+c,-41,-42,-53,-59,-,-,-,-46,-65,-44,-,-,-,-65,-,-,-,-50,-81,-70,-,-,-,-,-,-,-,-,-,-,-,-,-
+c,-45,-35,-63,-57,-,-,-,-38,-66,-49,-,-,-,-70,-,-,-,-55,-81,-70,-81,-,-,-,-,-,-,-,-,-,-,-,-
+c,-46,-46,-53,-57,-,-,-,-50,-64,-46,-,-,-,-70,-,-,-,-43,-81,-70,-81,-,-,-,-,-,-,-,-,-,-,-,-
+c,-45,-52,-62,-54,-,-,-,-45,-61,-39,-,-,-,-70,-,-,-,-43,-81,-70,-74,-,-,-,-,-,-,-,-,-,-,-,-
+c,-35,-48,-57,-54,-,-,-,-41,-58,-42,-60,-,-,-61,-,-,-,-43,-71,-72,-74,-,-,-,-,-,-,-85,-,-,-,-,-
+c,-46,-43,-56,-60,-,-,-,-41,-58,-42,-60,-,-,-59,-,-,-,-43,-71,-72,-77,-,-,-,-,-,-,-85,-,-,-,-,-
+c,-32,-49,-59,-57,-,-,-,-48,-60,-39,-60,-,-,-60,-,-,-,-43,-74,-72,-77,-,-,-,-,-,-,-85,-,-,-,-,-
+c,-32,-55,-63,-67,-,-86,-,-49,-59,-33,-74,-,-,-62,-,-,-,-,-74,-72,-77,-,-,-,-,-,-,-85,-,-,-,-,-
+c,-58,-49,-57,-66,-,-86,-,-49,-58,-41,-66,-,-,-58,-,-,-,-52,-74,-59,-77,-,-,-,-,-,-,-85,-,-,-,-,-
+c,-49,-54,-59,-59,-,-86,-,-49,-55,-55,-66,-,-,-62,-,-,-,-52,-74,-59,-77,-,-,-,-,-,-,-85,-,-,-,-,-
+c,-44,-54,-78,-64,-,-86,-,-43,-55,-39,-66,-,-,-58,-,-,-,-52,-82,-78,-78,-,-,-,-,-,-,-,-,-,-,-,-
+c,-46,-46,-60,-64,-,-86,-,-43,-60,-36,-74,-,-,-53,-,-,-,-52,-73,-71,-78,-,-,-,-,-67,-,-,-85,-,-,-,-
+c,-42,-42,-67,-58,-,-86,-,-51,-54,-39,-75,-,-,-60,-,-,-,-52,-77,-76,-78,-,-,-,-,-67,-,-80,-85,-81,-,-,-
+c,-52,-42,-68,-58,-,-,-,-45,-63,-47,-75,-,-,-67,-,-,-,-58,-85,-76,-78,-,-84,-,-,-67,-,-80,-85,-81,-,-,-
+c,-41,-39,-59,-58,-,-,-,-46,-61,-48,-76,-,-,-67,-,-,-,-58,-85,-75,-78,-,-84,-,-87,-79,-,-80,-85,-81,-76,-,-
+c,-56,-43,-59,-54,-,-,-,-52,-62,-45,-70,-,-,-71,-,-,-,-,-70,-69,-65,-,-,-,-,-69,-,-,-,-,-,-,-
+c,-47,-53,-65,-57,-,-,-,-49,-55,-40,-60,-,-,-71,-,-,-,-59,-71,-72,-65,-,-,-,-,-71,-,-,-,-,-72,-,-
+c,-41,-56,-59,-57,-,-,-,-53,-50,-37,-75,-,-,-58,-,-,-,-59,-73,-74,-69,-,-,-,-,-74,-,-,-,-,-72,-,-
+c,-49,-54,-65,-62,-,-,-,-49,-53,-37,-67,-,-,-56,-,-,-,-59,-69,-67,-69,-,-,-,-,-67,-,-,-,-,-72,-,-
+c,-48,-41,-62,-56,-,-,-,-48,-53,-44,-67,-,-,-56,-,-,-,-59,-69,-67,-69,-,-,-,-,-67,-,-,-,-,-72,-,-
+c,-50,-51,-62,-55,-,-,-,-50,-60,-40,-67,-,-,-53,-,-,-,-58,-69,-78,-69,-,-,-,-,-67,-,-,-,-,-72,-84,-
+c,-49,-44,-60,-68,-,-,-,-50,-52,-41,-76,-,-,-53,-,-,-,-58,-74,-77,-69,-,-,-,-,-74,-,-,-,-,-72,-84,-
+c,-47,-44,-60,-59,-,-,-,-54,-56,-46,-76,-,-,-62,-84,-,-,-58,-74,-77,-,-,-,-,-,-74,-,-,-,-,-79,-84,-
+d,-29,-49,-66,-59,-,-,-,-55,-61,-36,-78,-,-,-61,-84,-,-,-56,-74,-77,-,-,-,-,-,-74,-,-,-,-,-79,-,-
+d,-49,-57,-66,-56,-,-,-,-49,-56,-47,-74,-,-,-58,-84,-,-,-61,-73,-67,-,-,-,-,-,-,-,-,-,-,-79,-,-
+d,-46,-55,-62,-62,-,-,-,-49,-55,-47,-71,-,-,-58,-,-,-,-61,-74,-72,-,-,-,-,-,-72,-,-,-,-,-,-,-
+d,-49,-56,-57,-53,-,-,-,-51,-56,-44,-71,-,-,-58,-,-,-,-61,-74,-72,-,-,-,-,-87,-72,-,-,-,-,-,-,-
+d,-55,-58,-65,-62,-,-,-,-51,-68,-47,-71,-,-,-56,-,-,-,-61,-83,-83,-,-,-,-,-87,-72,-,-,-,-,-,-,-
+d,-46,-54,-72,-65,-,-,-,-51,-59,-49,-79,-,-,-69,-,-,-,-61,-85,-79,-,-,-,-,-87,-72,-,-,-,-,-,-,-
+d,-55,-51,-65,-62,-,-,-,-54,-59,-53,-78,-,-,-61,-,-,-,-,-85,-77,-,-,-,-,-87,-72,-,-,-,-,-,-,-
+d,-59,-51,-64,-60,-,-,-,-52,-67,-58,-80,-,-,-61,-,-,-,-67,-85,-80,-73,-,-,-,-86,-,-88,-,-,-,-,-,-
+d,-52,-58,-71,-62,-,-,-,-52,-60,-51,-80,-,-,-61,-,-,-,-67,-85,-80,-71,-,-,-,-86,-,-88,-,-,-,-,-,-
+d,-58,-60,-59,-57,-,-,-,-62,-59,-54,-80,-,-,-61,-,-,-,-67,-85,-80,-71,-,-,-,-86,-,-88,-,-,-,-,-,-
+d,-54,-54,-67,-57,-,-,-,-55,-59,-51,-77,-,-,-63,-,-,-,-67,-,-80,-71,-,-,-,-86,-,-88,-,-,-,-,-,-
+d,-53,-55,-63,-57,-,-,-,-58,-67,-46,-83,-,-,-63,-,-,-,-53,-,-,-71,-,-,-,-86,-,-88,-,-,-,-,-,-
+d,-52,-57,-66,-62,-,-,-,-53,-68,-52,-80,-,-,-60,-,-,-,-55,-79,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+d,-61,-61,-66,-53,-,-,-,-57,-60,-51,-75,-,-,-60,-,-,-,-59,-79,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+d,-61,-45,-53,-53,-86,-,-,-48,-72,-50,-75,-,-,-66,-,-,-,-59,-79,-,-,-,-,-87,-,-,-,-,-,-,-,-,-
+d,-56,-57,-57,-53,-86,-,-,-59,-60,-56,-81,-,-,-66,-,-,-,-50,-79,-,-,-,-,-87,-,-,-,-,-,-,-,-,-
+d,-51,-54,-56,-57,-86,-,-,-60,-67,-52,-81,-,-,-66,-,-,-,-50,-79,-,-76,-,-,-87,-,-,-,-,-,-,-76,-,-
+d,-49,-55,-66,-49,-86,-,-,-52,-67,-54,-81,-,-,-66,-,-,-,-50,-79,-,-76,-,-,-87,-,-,-,-,-85,-,-76,-,-
+d,-54,-55,-55,-52,-86,-,-,-52,-61,-54,-81,-,-,-67,-,-,-,-50,-,-,-76,-,-,-87,-,-,-,-,-85,-,-76,-,-50
+d,-50,-56,-55,-55,-86,-,-,-49,-69,-51,-81,-,-,-67,-,-,-,-50,-,-,-76,-,-,-87,-,-,-,-,-85,-,-76,-,-54
+d,-51,-55,-57,-58,-,-,-,-51,-69,-51,-75,-,-,-67,-,-,-,-64,-,-77,-76,-,-,-,-,-,-,-,-85,-,-76,-,-48
+d,-48,-55,-66,-55,-,-,-,-53,-59,-52,-75,-,-,-67,-,-,-,-54,-,-77,-76,-,-,-,-,-,-,-,-85,-,-76,-,-51
+d,-47,-54,-60,-54,-,-,-,-49,-62,-46,-75,-,-,-59,-,-,-,-54,-,-77,-,-,-,-,-,-,-,-,-85,-,-,-,-53
+d,-52,-51,-51,-53,-,-,-,-50,-69,-49,-75,-,-,-65,-,-,-,-63,-,-77,-,-,-,-,-,-,-,-,-,-,-,-,-55
+d,-51,-56,-67,-55,-,-,-,-48,-65,-46,-79,-,-,-65,-,-,-,-63,-,-77,-65,-,-,-,-,-,-,-,-,-,-,-,-64
+d,-58,-53,-64,-43,-90,-,-,-52,-65,-55,-73,-,-,-65,-,-,-,-63,-74,-77,-65,-,-,-,-,-76,-,-,-,-,-,-,-62
+d,-48,-50,-52,-45,-90,-,-,-53,-68,-51,-81,-,-,-65,-,-,-,-57,-74,-,-65,-,-,-,-,-76,-,-,-,-,-,-,-60
